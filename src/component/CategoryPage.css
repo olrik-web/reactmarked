@@ -1,0 +1,15 @@
+.ad {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+td {
+    padding: 10px;
+    width: 50%;
+    vertical-align: middle;
+}
